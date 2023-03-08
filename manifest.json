@@ -1,0 +1,9 @@
+{
+    "name": "MenuSave",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "For now, you can save without build",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.667"
+    ]
+}

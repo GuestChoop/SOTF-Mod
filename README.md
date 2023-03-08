@@ -4,7 +4,7 @@ Requires [BepInEx](https://thunderstore.io/c/sons-of-the-forest/p/BepInEx/BepInE
 
 Key default is "Insert" you can change it in "the base game directory/BepInEx/Save_Menu.cfg"
 
-#Hot-fix
+# Hot-fix
 Fixed lag issues
 
 # Installation:
